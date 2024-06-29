@@ -1,0 +1,28 @@
+.modifier {
+    color: crimson;
+    font-size: 47px;
+}
+
+body {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    cursor: pointer;
+    width: 120px; 
+}
+
+#parabens {
+    font-size: 50px;
+    color: aqua;
+}
